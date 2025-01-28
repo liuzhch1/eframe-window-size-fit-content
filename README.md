@@ -1,4 +1,4 @@
-## Demo
+## eframe window size fit content demo
 
 This demo shows how the eframe window size fit content works.
 
